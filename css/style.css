@@ -348,3 +348,6 @@ button {
 	position: relative;
     top: -10%;
 }
+.newsletter__btn {
+	padding-left: 20px;
+}
